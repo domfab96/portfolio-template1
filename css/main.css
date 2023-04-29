@@ -53,6 +53,10 @@
     color: var(--color-brand3);
   }
 
+  .span-text{
+    color: var(--color-brand2);
+  }
+
   .bg-base {
     background-color: var(--color-base);
   }
@@ -130,7 +134,7 @@
     .navbar {
       min-height: 100vh;
       width: var(--sidebar-width);
-      background: linear-gradient(rgba(3, 63, 71, 0.9), rgba(3, 63, 71, 0.9)), url(../side-bar-img/inspiration.jpg);
+      background: linear-gradient(rgba(35, 55, 93, 0.9), rgba(35, 55, 93, 0.9)), url(../side-bar-img/inspiration.jpg);
       background-size: cover;
       background-position: center;
     }
@@ -225,9 +229,9 @@ box-shadow: none;
 
 
 
-.social-icons{
+/* .social-icons{
 
-}
+} */
 
 .social-icons a{
   height: 40px;
