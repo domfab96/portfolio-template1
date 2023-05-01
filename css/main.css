@@ -219,7 +219,7 @@
     height: 5rem;
     border-radius: 10rem;
     background: var(--color-brand2);
-    top: 3%;
+    top: 6%;
     left: 3%;
   }
 
@@ -229,7 +229,7 @@
     height: 5rem;
     border-radius: 10rem;
     background: var(--color-base);
-    top: 10%;
+    top: 12%;
     left: 5%;
     filter: blur(2rem);
   }
